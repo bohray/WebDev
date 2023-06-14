@@ -30,7 +30,7 @@ h1{
 body {
     color: rgb(4, 16, 17);
     margin: 0;
-    background-image:linear-gradient(rgb(255, 255, 255),indianred)
+    background-image:linear-gradient(rgb(255, 255, 255),rgb(16, 38, 182))
 }
 
 .container {
